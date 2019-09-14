@@ -1,0 +1,23 @@
+{
+  "name": "freely-landing",
+  "version": "1.0.0",
+  "description": "Landing page for the freely iOS app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freely",
+    "ios",
+    "app",
+    "friends",
+    "free",
+    "hangout"
+  ],
+  "author": "Cristobal Grana",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8"
+  }
+}
