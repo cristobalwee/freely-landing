@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Value-serif';
+    src: url('../assets/value-serif.ttf');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('../assets/Rubik-Light.ttf');
+}
+
+$font-primary: 'Value-serif', serif;
+$font-secondary: 'Rubik', sans-serif;
+$black: #000;
+$white: #FFF;
+$gray: #F5F7F8;
+$gray-dark: #9E9E9E;
+$primary: #FFE7E7;
+$blue: #DFF5FF;
